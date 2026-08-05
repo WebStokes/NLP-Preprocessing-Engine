@@ -81,9 +81,7 @@ python chatbot.py
 - [ ] Swap DialoGPT for a more modern instruction-tuned chat model
 - [ ] Add unit tests for the preprocessing edge cases
 
-## 📄 License
 
-No license file is currently present. Add one (e.g. MIT) if you'd like others to freely use this project.
 
 ## 👤 Author
 
